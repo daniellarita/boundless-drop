@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: PresenTravel
+title: Boundless Drop
 subtitle: A travel blog 
-description: Exploring cnsciousness through travel
+description: Exploring consciousness through travel
 keywords:
 author: Danni Baxter
 language: en
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: ztopic
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
